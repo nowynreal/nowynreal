@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowynreal&label=Profile%20views&color=740d91&style=flat" alt="nowynreal" /> </p>
 
-- 🔭 I’m currently working on **my portfolio website.**
+- 🔭 I’m currently working on **a chrome extension.**
 
 - 🌱 I’m currently learning **Unity, C#**
 
