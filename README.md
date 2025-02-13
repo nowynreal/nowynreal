@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Computer Science student from Turkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowynreal&label=Profile%20views&color=740d91&style=flat" alt="nowynreal" /> </p>
+![image](https://github.com/user-attachments/assets/a8f13513-3a6b-4a51-a6c0-37f00094348a)
 
 - 🔭 I’m currently working on **my portfolio website.**
 
