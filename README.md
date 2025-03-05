@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowynreal&label=Profile%20views&color=740d91&style=flat" alt="nowynreal" /> </p>
 
-- 🔭 I’m currently working on **multi-language translator tool.**
+- 🔭 I’m currently working on **multi-language translator tool, Online Competitive Card Game**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
