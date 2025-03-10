@@ -14,6 +14,7 @@
 </p>
 ![image](https://github.com/user-attachments/assets/f826cbae-6ccf-4be4-a76e-d459e7527bfc)
 ![image](https://github.com/user-attachments/assets/20a97303-5f6d-483a-b81f-40d4da94cab7)
+![image](https://github.com/user-attachments/assets/946b5a2e-cc1e-4179-a6c5-1b9cc299ef67)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,8 +22,7 @@
   <img src="https://github.com/user-attachments/assets/cd223b61-634a-400d-ae95-0193bb986be2" fill="#ffffff" alt="html5" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/f826cbae-6ccf-4be4-a76e-d459e7527bfc" fill="#ffffff" alt="css3" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/20a97303-5f6d-483a-b81f-40d4da94cab7" fill="#ffffff" alt="tailwind" width="40" height="40"/> 
-  <img src="https://github.com/user-attachments/assets/4a2336e1-2d16-4b70-97e1-d1e292150ff9" fill="#ffffff" alt="javascript" width="40" height="40"/> 
-  <img src="https://github.com/user-attachments/assets/b38b7107-14ee-4d4d-b575-0fbb11689a5a" fill="#ffffff" alt="react" width="40" height="40"/> 
+  <img src="https://github.com/user-attachments/assets/946b5a2e-cc1e-4179-a6c5-1b9cc299ef67" fill="#ffffff" alt="react" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/bb22fdf5-5136-46ec-b521-c057f9441e35" fill="#ffffff" alt="figma" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" fill="#ffffff" alt="photoshop" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/48432372-08d9-40a9-a647-3f3021b55238" fill="#ffffff" alt="unity" width="40" height="40"/>
