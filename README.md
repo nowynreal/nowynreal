@@ -13,9 +13,10 @@
 <a href="https://instagram.com/semihyckn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semihyckn" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/a8f13513-3a6b-4a51-a6c0-37f00094348a" fill="#ffffff" alt="html5" width="40" height="40"/> 
+  <img src="https://github.com/user-attachments/assets/cd223b61-634a-400d-ae95-0193bb986be2" fill="#ffffff" alt="html5" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/0d74d997-def8-459a-8aa6-5a01e53cf4ac" fill="#ffffff" alt="css3" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/85a3df95-42b0-4e56-b13a-d4cfa4713cbb" fill="#ffffff" alt="tailwind" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/4a2336e1-2d16-4b70-97e1-d1e292150ff9" fill="#ffffff" alt="javascript" width="40" height="40"/> 
