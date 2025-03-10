@@ -12,13 +12,15 @@
 <a href="https://www.linkedin.com/in/semihyckn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/semihyckn/" height="30" width="40" /></a>
 <a href="https://instagram.com/semihyckn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semihyckn" height="30" width="40" /></a>
 </p>
+![image](https://github.com/user-attachments/assets/f826cbae-6ccf-4be4-a76e-d459e7527bfc)
+![image](https://github.com/user-attachments/assets/20a97303-5f6d-483a-b81f-40d4da94cab7)
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://github.com/user-attachments/assets/cd223b61-634a-400d-ae95-0193bb986be2" fill="#ffffff" alt="html5" width="40" height="40"/> 
-  <img src="https://github.com/user-attachments/assets/0d74d997-def8-459a-8aa6-5a01e53cf4ac" fill="#ffffff" alt="css3" width="40" height="40"/> 
-  <img src="https://github.com/user-attachments/assets/85a3df95-42b0-4e56-b13a-d4cfa4713cbb" fill="#ffffff" alt="tailwind" width="40" height="40"/> 
+  <img src="https://github.com/user-attachments/assets/f826cbae-6ccf-4be4-a76e-d459e7527bfc" fill="#ffffff" alt="css3" width="40" height="40"/> 
+  <img src="https://github.com/user-attachments/assets/20a97303-5f6d-483a-b81f-40d4da94cab7" fill="#ffffff" alt="tailwind" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/4a2336e1-2d16-4b70-97e1-d1e292150ff9" fill="#ffffff" alt="javascript" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/b38b7107-14ee-4d4d-b575-0fbb11689a5a" fill="#ffffff" alt="react" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/bb22fdf5-5136-46ec-b521-c057f9441e35" fill="#ffffff" alt="figma" width="40" height="40"/> 
