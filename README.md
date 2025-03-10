@@ -12,9 +12,6 @@
 <a href="https://www.linkedin.com/in/semihyckn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/semihyckn/" height="30" width="40" /></a>
 <a href="https://instagram.com/semihyckn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="semihyckn" height="30" width="40" /></a>
 </p>
-![image](https://github.com/user-attachments/assets/68f0f0a2-81fd-4e03-8faa-584ef418308a)
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -23,8 +20,7 @@
   <img src="https://github.com/user-attachments/assets/20a97303-5f6d-483a-b81f-40d4da94cab7" fill="#ffffff" alt="tailwind" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/946b5a2e-cc1e-4179-a6c5-1b9cc299ef67" fill="#ffffff" alt="react" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/68f0f0a2-81fd-4e03-8faa-584ef418308a" fill="#ffffff" alt="figma" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" fill="#ffffff" alt="photoshop" width="40" height="40"/> 
-  <img src="https://github.com/user-attachments/assets/48432372-08d9-40a9-a647-3f3021b55238" fill="#ffffff" alt="unity" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/dcb4ee98-8453-497d-bc59-8f0e6f335061" fill="#ffffff" alt="photoshop" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/f699fece-5019-4d06-8cac-d3226b48aa47" fill="#ffffff" alt="cs2" width="40" height="40"/></p>
 
 <h3 align="left">Support:</h3>
