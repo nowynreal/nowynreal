@@ -23,10 +23,6 @@
   <img src="https://github.com/user-attachments/assets/dcb4ee98-8453-497d-bc59-8f0e6f335061" fill="#ffffff" alt="photoshop" width="40" height="40"/> 
   <img src="https://github.com/user-attachments/assets/f699fece-5019-4d06-8cac-d3226b48aa47" fill="#ffffff" alt="cs2" width="40" height="40"/></p>
 
-<h3 align="left">Support:</h3>
-
-<p><a href="https://www.buymeacoffee.com/nowy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nowy" /></a></p><br><br>
-
 ---
 <div style="display: flex; justify-content: center; height: 150px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nowynreal&theme=dark" alt="nowynreal" />
